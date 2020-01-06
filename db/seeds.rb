@@ -10,6 +10,6 @@
 # Message.create(title: 'test title2', content: 'test content 2')
 # Message.create(title: 'test title3', content: 'test content 3')
 
-(1..100).each do |number|
-  Message.create(title: 'test title ' + number.to_s, content: 'test content ' + number.to_s)
-end  
+# (1..100).each do |number|
+#   Message.create(title: 'test title ' + number.to_s, content: 'test content ' + number.to_s)
+# end  
